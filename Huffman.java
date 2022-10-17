@@ -5,7 +5,7 @@ import java.io.FileWriter;
 import java.util.HashMap;
 
 /**
- * @author Rishav Chakravarty, Aneesh Patnaik
+ * @author Aneesh Patnaik
  */
 public class Huffman {
 

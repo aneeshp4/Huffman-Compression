@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.PriorityQueue;
 
 /**
- * @author Aneesh Patnaik, Rishav Chakravarty
+ * @author Aneesh Patnaik
  * CodeTreeGenerators generate the tree of characters and their frequencies,
  * the priority queue that stores these data,
  * the frequency table

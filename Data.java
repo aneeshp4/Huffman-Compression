@@ -1,5 +1,5 @@
 /**
- * @author Rishav Chakravarty, Aneesh Patnaik
+ * @author Aneesh Patnaik
  * Data objects hold a character and its frequency in the text
  */
 
